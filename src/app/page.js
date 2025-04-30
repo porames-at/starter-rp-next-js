@@ -1,4 +1,4 @@
-import { LazyAppPdfViewer } from "./components/LazyAppPdfViewer";
+import { LazyAppPdfViewer } from "./components/LazyAppPDFViewer";
 
 export default function Home() {
   return (
