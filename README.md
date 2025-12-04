@@ -1,6 +1,6 @@
 # React PDF Starter Toolkit in Next.js and JavaScript
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/pdf-viewer-react/starter-rp-next-js)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/~/github.com/react-pdf-dev/starter-rp-nextjs-app-router-js)
 
 Welcome to the React PDF Starter Toolkit! This repository provides a comprehensive guide on integrating React PDF with Nextjs and JavaScript. It showcases how React PDF can be integrated and rendered as part of a Next.js project.
 
